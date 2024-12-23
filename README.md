@@ -10,3 +10,5 @@ This application allows users to rate movies and TV shows. It is built using the
 - **Toaster Library**: For displaying alerts and notifications.
 
 API keys and token are set in the .env file, create yours to run the app.
+
+[Current Version](https://dharmite.github.io/react-movies-tv-shows-rating/)
