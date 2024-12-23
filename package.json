@@ -1,7 +1,7 @@
 {
   "name": "movies-tv-shows-rating",
   "private": true,
-  "homepage": "https://dharmite.github.io/react-movies-tv-shows-rating/",
+  "homepage": "https://dharmite.github.io/react-movies-tv-shows-rating",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
