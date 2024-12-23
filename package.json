@@ -1,6 +1,7 @@
 {
   "name": "movies-tv-shows-rating",
   "private": true,
+  "homepage": "https://dharmite.github.io/react-movies-tv-shows-rating/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
